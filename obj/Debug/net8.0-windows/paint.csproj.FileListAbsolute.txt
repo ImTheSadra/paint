@@ -1,0 +1,14 @@
+D:\code\source\c#\app\paint\bin\Debug\net8.0-windows\paint.exe
+D:\code\source\c#\app\paint\bin\Debug\net8.0-windows\paint.deps.json
+D:\code\source\c#\app\paint\bin\Debug\net8.0-windows\paint.runtimeconfig.json
+D:\code\source\c#\app\paint\bin\Debug\net8.0-windows\paint.dll
+D:\code\source\c#\app\paint\bin\Debug\net8.0-windows\paint.pdb
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.AssemblyInfoInputs.cache
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.AssemblyInfo.cs
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.csproj.CoreCompileInputs.cache
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.dll
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\refint\paint.dll
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.pdb
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\paint.genruntimeconfig.cache
+D:\code\source\c#\app\paint\obj\Debug\net8.0-windows\ref\paint.dll
